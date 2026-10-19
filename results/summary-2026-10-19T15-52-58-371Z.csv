@@ -1,0 +1,2 @@
+intervalMs,requested,succeeded,rejectedOrFailed,elapsedMs,throughputRequestsPerSecond,latencyMeanMs,latencyP50Ms,latencyP95Ms,latencyP99Ms
+1,10000,10000,0,140480.71,71.18,1.72,1.71,2.75,3.32
